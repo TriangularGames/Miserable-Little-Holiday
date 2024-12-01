@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PresentsNum
+  - ScoreNum
+  - Battery
+  - Flashlight
+  - Dude
+  - BatPickup
+  - Destruction
+  - Menus
+  - Tutorial
+  - MusicPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Regular Lads
+  - Present Fellas
+  - Batteries
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: A
+    uniqueID: 2912563277
+    locked: 0
+  - name: UI
+    uniqueID: 1077220643
+    locked: 0
